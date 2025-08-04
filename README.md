@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img src="img/Aldri-2.jpg" height="200" style="border-radius: 10%; object-fit: cover;" alt="Aldri Profile Picture"/>
 </div>
 
 ###
@@ -33,9 +33,15 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
+  <a href="https://instagram.com/aldrisptra" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo" />
+  </a>
+  <a href="https://linkedin.com/in/username" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo" />
+  </a>
+  <a href="mailto:alamatmu@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo" />
+  </a>
 </div>
 
 ###
@@ -54,6 +60,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/aldrisptra/aldrisptra/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/aldrisptra/aldrisptra/output/snake.svg" alt="Snake GitHub contribution animation" />
 
 ###
