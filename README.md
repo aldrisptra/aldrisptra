@@ -36,10 +36,10 @@
   <a href="https://instagram.com/aldrisptra" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo" />
   </a>
-  <a href="https://linkedin.com/in/username" target="_blank">
+  <a href="https://linkedin.com/in/aldrisptra" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo" />
   </a>
-  <a href="11231050@student.itk.ac.id" target="_blank">
+  <a href="mailto:11231050@student.itk.ac.id" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo" />
   </a>
 </div>
@@ -63,3 +63,5 @@
 <img src="https://raw.githubusercontent.com/aldrisptra/aldrisptra/output/snake.svg" alt="Snake GitHub contribution animation" />
 
 ###
+
+<!-- --------------------------------------bataassss----------------- -->
