@@ -60,8 +60,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/aldrisptra/aldrisptra/output/snake.svg" alt="Snake GitHub contribution animation" />
-
-###
-
 <!-- --------------------------------------bataassss----------------- -->
